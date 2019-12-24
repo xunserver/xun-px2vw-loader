@@ -1,0 +1,23 @@
+{
+    "name": "xun-px2vw-loader",
+    "version": "0.0.1",
+    "description": "css post loader for px2rem",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jinjiang/xun-px2vw-loader.git"
+    },
+    "keywords": [
+        "webpack",
+        "loader"
+    ],
+    "author": "xunserver",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xunserver/xun-px2vw-loader/issues"
+    },
+    "homepage": "https://github.com/xunserver/xun-px2vw-loader",
+    "dependencies": {
+        "loader-utils": "^1.1.0"
+    }
+}
